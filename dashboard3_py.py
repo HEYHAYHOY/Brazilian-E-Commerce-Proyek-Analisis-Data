@@ -9,7 +9,6 @@ Original file is located at
 
 import streamlit as st
 import pandas as pd
-import seaborn as sns
 
 st.set_page_config(
     page_title="E-Commerce Public Dataset",
