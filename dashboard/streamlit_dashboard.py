@@ -6,7 +6,7 @@ import streamlit as st
 st.set_page_config(page_title="Dashboard Produk", layout="wide")
 st.title("Dashboard Penjualan Produk Di Sao Paulo")
 
-df = pd.read_csv("all_data.csv")
+df = pd.read_csv("dashboard/all_data.csv")
 
 df["price"] = pd.to_numeric(df["price"], errors="coerce")
 df["freight_value"] = pd.to_numeric(df["freight_value"], errors="coerce")
