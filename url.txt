@@ -1,2 +1,1 @@
-https://share.streamlit.io/
-link streamlit: https://nbaspwxfp5zv9s2sxxy2zh.streamlit.app/
+https://nbaspwxfp5zv9s2sxxy2zh.streamlit.app/
